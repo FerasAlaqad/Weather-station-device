@@ -27,5 +27,7 @@ If you want to see pressure, temperature, and Humidity values on your phone you 
 While you are choosing indicators in Blynk you should choose ports the same as i choosed in code.    
 
 This device can connect to any wifi, wifi reset can be done by pressing the button for more than 3 seconds.   
-You can reset esp32 wifi by connect your phone to the router will be started from esp32.
+You can reset esp32 wifi by connect your phone to the router will be started from esp32.  
+
+Feel free to contact me anytime. Email: ferasdc18@gmail.com
 
