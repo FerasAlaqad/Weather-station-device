@@ -20,6 +20,9 @@ This is libraries i used:
 #include <WiFiManager.h>  
 #include "ESP32TimerInterrupt.h"    
 
+You have to look to my code while you are connecting components to esp32.   
+I added explanations in the codes.  
+
 If you want to see pressure, temperature, and Humidity values on your phone you have to connect esp32 to wifi and you should download the Blynk application on your phone.
 While you are choosing indicators in Blynk you should choose ports the same as i choosed in code.    
 
