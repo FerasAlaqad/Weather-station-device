@@ -7,7 +7,7 @@
 <img src="https://user-images.githubusercontent.com/87244886/133887043-9df97e09-710c-43ba-aa0c-2dc09ce92184.png" width="300" height="300">
 </p>
 
-This is libraries i used:  
+There are libraries i used:  
 #include <WiFi.h>  
 #include <WiFiClient.h>  
 #include <BlynkSimpleEsp32.h>  
@@ -24,7 +24,7 @@ You have to look to my code while you are connecting components to esp32.
 I added explanations in the codes.  
 
 If you want to see pressure, temperature, and Humidity values on your phone you have to connect esp32 to wifi and you should download the Blynk application on your phone.
-While you are choosing indicators in Blynk you should choose ports the same as i choosed in code.    
+While you are choosing indicators in Blynk you should choose ports the same as i wrote in code.    
 
 This device can connect to any wifi, wifi reset can be done by pressing the button for more than 3 seconds.   
 You can reset esp32 wifi by connect your phone to the router will be started from esp32.  
